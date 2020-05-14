@@ -22,7 +22,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<builds>
+	<build>
 		<plugins>
 			<plugin>
 				<groupId>org.jacoco</groupId>
@@ -58,5 +58,5 @@
 			
 			</plugin>
 		</plugins>
-	</builds>
+	</build>
 </project>
